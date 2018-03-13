@@ -21,7 +21,7 @@ Results were run using a p2.xlarge instance on AWS; training took around 15 hour
 
 ## Additional Credits
 
-I looked at a number of existing implementations in TensorFlow with this project, particularly carpedm20's DCGAN implementation at https://github.com/carpedm20/DCGAN-tensorflow and https://github.com/znxlwm/tensorflow-MNIST-GAN-DCGAN, and this may be reflected in code reuse in some areas. Therefore, please give additional credit to both authors if extending or reproducing this work.
+I looked at a number of existing implementations in TensorFlow with this project, particularly carpedm20's DCGAN implementation at https://github.com/carpedm20/DCGAN-tensorflow and znxlwm's implementation of a DCGAN at https://github.com/znxlwm/tensorflow-MNIST-GAN-DCGAN, and this may be reflected in code reuse in some areas. Therefore, please give additional credit to both authors if extending or reproducing this work.
 
 ## Finally
 

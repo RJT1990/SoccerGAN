@@ -21,7 +21,7 @@ Results were run using a p2.xlarge instance on AWS; training took around 15 hour
 
 ## Additional Credits
 
-I looked at a number of existing implementations in TensorFlow with this project, particularly carpedm20's DCGAN implementation at https://github.com/carpedm20/DCGAN-tensorflow, and this may be reflected in some stylistic similarities in the code.
+I looked at a number of existing implementations in TensorFlow with this project, particularly carpedm20's DCGAN implementation at https://github.com/carpedm20/DCGAN-tensorflow and https://github.com/znxlwm/tensorflow-MNIST-GAN-DCGAN, and this may be reflected in code reuse in some areas. Therefore, please give additional credit to both authors if extending or reproducing this work.
 
 ## Finally
 
@@ -32,3 +32,5 @@ If you liked what you saw and want to see more stuff like this:
 **Send ETH love to** : 0x7d4AFAc854D58E5FDbbFeEb5fe678d6CB2d02207
 
 **Donate to** : https://secure.greenpeace.org.uk/page/contribute/greenpeace-main
+
+Thanks and have a great day =).
